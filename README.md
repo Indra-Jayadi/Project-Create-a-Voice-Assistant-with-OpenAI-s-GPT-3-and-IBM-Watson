@@ -14,6 +14,8 @@ Mentee assigment from ibm advance AI @infinite learning course completion of Cre
 - Javascript
 - HTML
 - CSS
+- Dockerfile
+- Sheel
 
 ## Authors
 
